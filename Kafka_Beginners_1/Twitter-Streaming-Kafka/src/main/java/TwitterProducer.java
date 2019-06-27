@@ -21,10 +21,10 @@ public class TwitterProducer {
 
     final Logger logger = LoggerFactory.getLogger(TwitterProducer.class.getName());
 
-    String consumerKey = "JE5moN5FOKU3bvXEDDjhP8oWZ";
-    String consumerSecret = "kc8CDAQ8uKS6x5rqBzu6Hgg8PNuGA3hnKjeeWUGbgBiIiYZ7EE";
-    String token = "2860587519-87zk8rQaxOd5TjBMoDt2lq4n0V97EVNBHrXLla8";
-    String secret = "oOwGaNEYkmGPXGVMTpb6udVwgdPDZtsuOFMVuWadfryX4";
+    String consumerKey = "";
+    String consumerSecret = "";
+    String token = "";
+    String secret = "";
 
     public TwitterProducer() {
 
